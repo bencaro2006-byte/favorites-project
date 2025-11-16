@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pizza
 Sushi
 Burgers
-=======
 Interstellar
 Inception
 Shutter Island
->>>>>>> movies
